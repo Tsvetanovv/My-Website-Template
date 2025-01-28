@@ -6,4 +6,5 @@
 ![image](https://github.com/user-attachments/assets/330d657d-8231-4136-a504-af473a37ae61)
 ![image](https://github.com/user-attachments/assets/e4850040-9ac6-4eed-8e56-81246f607106)
 
-- Its fully translated to Bulgarian
+- Both images are part (not the full content) of the website!
+- Its fully translated to Bulgarian.
